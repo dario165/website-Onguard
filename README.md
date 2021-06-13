@@ -4,8 +4,10 @@
 ![Capturar3](https://user-images.githubusercontent.com/81823496/121804511-0e530c00-cc47-11eb-8b54-3964a8dc54db.PNG)
 ![Capturar4](https://user-images.githubusercontent.com/81823496/121804514-10b56600-cc47-11eb-99eb-6c8339a4ff21.PNG)
 ![Capturar5](https://user-images.githubusercontent.com/81823496/121804516-127f2980-cc47-11eb-861c-42067fecc8fe.PNG)
+![Capturar6](https://user-images.githubusercontent.com/81823496/121804632-9afdca00-cc47-11eb-8d26-4ea61eaa84ad.PNG)
+
 
 # website-Onguard
-Responsive investing bank website, Html, Css(flexbox) and jquery.![Capturar6](https://user-images.githubusercontent.com/81823496/121804596-6db11c00-cc47-11eb-8425-b9c2a9105ac2.PNG)
+Responsive investing bank website, Html, Css(flexbox) and jquery.
 
 
