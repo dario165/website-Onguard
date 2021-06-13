@@ -1,8 +1,9 @@
-![Capturar](https://user-images.githubusercontent.com/81823496/121789265-ddd28a00-cbd4-11eb-8a4b-3793a3cdb5f0.PNG)
-![Capturar1](https://user-images.githubusercontent.com/81823496/121789268-df9c4d80-cbd4-11eb-8147-8a3f1b0b7716.PNG)
-![Capturar2](https://user-images.githubusercontent.com/81823496/121789269-e0cd7a80-cbd4-11eb-871c-3a761a4bc95c.PNG)
-![Capturar3](https://user-images.githubusercontent.com/81823496/121789270-e2973e00-cbd4-11eb-85a5-1f1dd4384f9c.PNG)
-![Capturar4](https://user-images.githubusercontent.com/81823496/121789271-e3c86b00-cbd4-11eb-8760-e1c15ab1ac16.PNG)
-![Capturar5](https://user-images.githubusercontent.com/81823496/121789272-e4f99800-cbd4-11eb-96ac-f802e61ee4a7.PNG)
+![Capturar](https://user-images.githubusercontent.com/81823496/121804503-085d2b00-cc47-11eb-9d74-6d4fd579b23e.PNG)
+![Capturar1](https://user-images.githubusercontent.com/81823496/121804505-0abf8500-cc47-11eb-803c-d4ec12c8c16f.PNG)
+![Capturar2](https://user-images.githubusercontent.com/81823496/121804507-0c894880-cc47-11eb-8f70-8e181a67dce2.PNG)
+![Capturar3](https://user-images.githubusercontent.com/81823496/121804511-0e530c00-cc47-11eb-8b54-3964a8dc54db.PNG)
+![Capturar4](https://user-images.githubusercontent.com/81823496/121804514-10b56600-cc47-11eb-99eb-6c8339a4ff21.PNG)
+![Capturar5](https://user-images.githubusercontent.com/81823496/121804516-127f2980-cc47-11eb-861c-42067fecc8fe.PNG)
+
 # website-Onguard
-Investing bank website, Html, Css(flexbox) and jquery.
+Responsive investing bank website, Html, Css(flexbox) and jquery.
